@@ -1,0 +1,6 @@
+{
+  "name": "TruthTrace",
+  "description": "Investigative intelligence platform for analyzing document claims, mapping contradictions, and building chronological evidence timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
